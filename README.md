@@ -21,7 +21,7 @@ The compiler for wlua
 
 1. Запускаем приложение;
 
-2. Нажимаем кнопку "Выбрать скрипт", выбираем нужный скрипт.
+2. Нажимаем кнопку "Выбрать скрипт", выбираем нужный скрипт. Поддерживается Drag-and-drop технология! Можно перетащить файл на окно.
 
 3. В текстовом поле пишем имя Вашей программы.
 
@@ -48,7 +48,7 @@ To carry out an operations procedure as here it will be written!
 
 1. We start the application;
 
-2. We press the "open script file" button, we choose the necessary script.
+2. We press the "open script file" button, we choose the necessary script. Drag-and-drop technology is supported! It is possible to drag the file on a form
 
 3. In a text field we write a name of your program.
 
