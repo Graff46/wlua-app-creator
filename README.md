@@ -20,6 +20,7 @@ The compiler for wlua
 Программа соберет все ресурсы в папке с названием Вашей программы, относительно своей папки.
 
 --Eng -- I not well know English, I use PROMT Translator, I ask to excuse at possible mistakes in translation.
+
 This application for OS Windows it is intended for creation file .exe from your scripts of Lua.
 
 The application is created on the basis of wlua, therefore you can compile the scripts written together with wxWidgets and other means supported by an interpreter wlua. Ready applications will be started without the cmd window
