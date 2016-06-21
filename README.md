@@ -24,7 +24,7 @@
 ### English manual
 
 
-This application for OS Windows, which create EXE-file from your Lua scripts.  
+This application for OS Windows creates EXE-file from your Lua scripts.  
 The application based on wlua, therefore you can compile the scripts written together with wxWidgets and other means supported by an interpreter wlua. Ready applications will be started without the cmd window
 
 ### Attention!
