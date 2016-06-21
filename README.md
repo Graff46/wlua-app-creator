@@ -1,7 +1,7 @@
 # wlua-app-creator
 [Инструкция на русском языке](#Инструкция-на-русском-языке)  
 [English Manual](#English-Manual)
-
+[test](#english-manual)
 ### Инструкция на русском языке
 Это приложение для OS Windows, которое предназначено для создания исполняемого (EXE-файла) из Lua-скриптов.  
 Приложение построено на базе wlua, следовательно, имеется возможность компиляции скриптов, написанных вместе с wxWidgets и другими средствами, поддерживаемыми интерпретатором wlua. Готовые приложения будут запускаться без окна cmd.
@@ -25,7 +25,7 @@
 
 Программа соберет все ресурсы в папке с указанным названием программы, относительно своей папки.
 
-### English Manual
+### English manual
 --Eng -- I not well know English, I use PROMT Translator, I ask to excuse at possible mistakes in translation.
 
 This application for OS Windows it is intended for creation file .exe from your scripts of Lua.
