@@ -29,7 +29,8 @@ The application based on wlua, therefore you can compile the scripts written tog
 
 ### Attention!
 
-The program is created in free IDE HiAsm. The .sha files are projects for HiAsm. [Download HiAsm](http://hiasm.com/down.html)
+The program is created in free IDE HiAsm. The .sha files are projects for HiAsm.  
+[Download HiAsm](http://hiasm.com/down.html)
 
 
 **Necessary observe the following steps:**
